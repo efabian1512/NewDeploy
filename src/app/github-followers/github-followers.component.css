@@ -1,0 +1,29 @@
+img {
+    border-radius: 50%;
+    width: 90px;
+  }
+
+  li{
+      list-style: none;
+      
+      
+  }
+
+  span{
+      font-size: large;
+      font-weight: bold;
+      top:-50px;
+      left:5px;
+      position: relative;
+      
+  }
+
+  a{
+  height: 20px;
+     
+     
+      text-decoration: none; 
+       
+      
+     
+  }

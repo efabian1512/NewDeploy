@@ -1,0 +1,27 @@
+.nav{
+    /*background-color: #8a8989;*/
+    background-color:#e0dbdb;
+    /*color:#272727;
+    padding-right: 15px;
+    padding-left: 15px;*/
+    
+    
+  }
+  li{
+    padding:10px;
+  }
+  
+  .active{
+    background-color:#8a8989;
+  }
+  
+  a{
+    color: #202020;
+  
+  }
+  
+  a:hover{
+    color:#000000;
+  }
+  
+  
